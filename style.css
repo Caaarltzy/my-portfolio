@@ -50,7 +50,7 @@ ul.nav-main a:hover {
       rgba(78, 62, 62, 0.8) 0%,
       rgba(31, 24, 19, 0.8) 100%
     ),
-    url("/images/wrapper-bg.jpg");
+    url("images/wrapper-bg.jpg");
   background-position: center;
   background-size: cover;
   padding: 120px 10px 0px 20px;
